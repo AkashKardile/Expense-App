@@ -33,9 +33,9 @@ Ensure you have the following installed:
 
 2.  **Install dependencies**:
 
-    Using npm: npm install
-
-    Using yarn: yarn install
+        Using npm: npm install
+    
+        Using yarn: yarn install
 
     ###### Running the Application
 
@@ -50,13 +50,13 @@ Ensure you have the following installed:
 
 **Project Structure**
 
-├── src/
-│ ├── components/
-│ │ ├── Expense/ # Expense related components
-│ │ ├── NewExpense/ # NewExpense related components
-│ │ └── UI/ # UI related components
-│ ├── App.js # Main application component
-│ └── index.js # Entry point for React
+    ├── src/
+    │ ├── components/
+    │ │ ├── Expense/ # Expense related components
+    │ │ ├── NewExpense/ # NewExpense related components
+    │ │ └── UI/ # UI related components
+    │ ├── App.js # Main application component
+    │ └── index.js # Entry point for React
 
 ## Contributing
 
